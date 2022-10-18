@@ -11,7 +11,7 @@ const { handle } = require("express/lib/application");
 //Connection to local DB
 mongoose.connect('mongodb://127.0.0.1:27017/blogDB');
 
-//Set DB collections
+//Set DB collectionsasdsadsaasdsadadasdasdsada
 const entrySchema = {
   title: String,
   text: String,
